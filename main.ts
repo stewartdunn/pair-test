@@ -1,0 +1,7 @@
+bluetooth.startUartService()
+bluetooth.startAccelerometerService()
+bluetooth.startTemperatureService()
+bluetooth.startButtonService()
+bluetooth.startIOPinService()
+bluetooth.startLEDService()
+basic.showString("Hold A+B while pressing reset to enter pairing mode")
